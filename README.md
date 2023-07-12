@@ -1,6 +1,6 @@
 ### Who am I
 
-I'm pedro. A 20 years old starting as a active Java / JavaScript dev. I'm currently working at my main repository below.
+I'm pedro. A 25 years old starting as a active Java / JavaScript / Python dev. I'm currently working at my main repository below.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=binance-trading-bot&show_owner=true&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14)](https://github.com/anuraghazra/github-readme-stats)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohusky&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
