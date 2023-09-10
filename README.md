@@ -1,9 +1,15 @@
 ### Who am I
 
-I'm pedro. A 25 years old starting as a active Java / JavaScript / Python dev. I'm currently working at my main repository below.
+I'm pedro. A 25 years old starting as a active Java / JavaScript / Python dev. 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=binance-trading-bot&show_owner=true&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14)](https://github.com/anuraghazra/github-readme-stats)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohusky&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohusky&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&count_private=true&bg_color=00000000&layout=donut)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohusky&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&count_private=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Best repos:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=binance-trading-bot&show_owner=true&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=youtube-python-downloader&show_owner=true&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=yolov5-trainer&show_owner=true&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=chatgpt-continue-autoclicker&show_owner=true&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=Urly&show_owner=true&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=malware-agent&show_owner=true&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Why I do what I do
 
