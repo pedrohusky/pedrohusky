@@ -1,30 +1,43 @@
-### Who am I
+### About Me
 
-I'm pedro. A 25 years old starting as a active Java / JavaScript / Python dev. 
+I'm Pedro, a 25-year-old Brazilian developer passionate about coding. 
+Currently, I'm an active Python, Java, and JavaScript enthusiast, eager to learn and grow in the world of software development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohusky&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&count_private=true&bg_color=00000000&layout=donut)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohusky&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&count_private=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+**Coding Interests**
+
+I'm particularly interested in:
+
+- Computer Vision
+- Back-end Development
+- Data pipelines (databases)
+- Machine learning and artificial intelligence
+- Creating python GUI's is cool too!
+
+**Contact**
+
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/predo/)
+- **Email:** [pedrohusky@live.com](mailto:pedrohusky@live.com)
+
+If you're interested in collaboration or just want to chat about coding, don't hesitate to reach out through LinkedIn or via email. Let's connect and explore the world of code together! :)
+
+### Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohusky&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&count_private=true&bg_color=00000000&layout=donut) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohusky&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&count_private=true&bg_color=00000000)
 
 
-### Best repos:
+### My best repos:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=binance-trading-bot&show_owner=true&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=youtube-python-downloader&show_owner=true&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=yolov5-trainer&show_owner=true&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=chatgpt-continue-autoclicker&show_owner=true&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=Urly&show_owner=true&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=malware-agent&show_owner=true&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Why I do what I do
-
-There's actually no reason, besides my love for code. I never started this to go after money. No.
-
-### Where I live
-
-I live in Brazil, this beautiful but at the sime time, harsh country.
-
-### Donation Info
-
-This part is complicated to me because I don't like to ask for money. No one like. But here is my donation info for anyone who wants to give a little light to this young soul. :)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=malware-agent&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/pedrohusky/malware-agent) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=youtube-python-downloader&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/pedrohusky/youtube-python-downloader) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=yolov5-trainer&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/pedrohusky/yolov5-trainer) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=chatgpt-continue-autoclicker&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/pedrohusky/chatgpt-continue-autoclicker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=Urly&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/pedrohusky/Urly) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohusky&repo=binance-trading-bot&show_icons=true&theme=tokyonight&border_radius=20&border_color=ffcc14&bg_color=00000000)](https://github.com/pedrohusky/binance-trading-bot)
 
 
-NOTE: Binance Gift Card and Binance Pay do not have fees.
+
+
+
+
+If you liked any of my repos, or you just want to help, below are my donation infos. 
+
+- NOTE: Binance Gift Card and Binance Pay do not have fees.
 
 | Method                                              | Network                   | Address                                                                                           |
 | ------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------- |
