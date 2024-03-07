@@ -44,7 +44,6 @@ If you liked any of my repos, or you just want to help, below are my donation in
 | ![Binance Pay](https://img.shields.io/badge/BINANCE_PAY-cyan) | Binance | `Binance Pay address: 124741538`                                                      |
 | ![Binance Gift Card](https://img.shields.io/badge/BINANCE_GIFT_CARD-green) | Binance | `You can send any amount, even as low as 1$ without any fees. To send a gif card to me, please contact me at discord: pedrohusky#9119`                                                      |                                               |
 | ![Donate BTC](https://img.shields.io/badge/BTC-yellow) | Binance Smart Chain (BSC) | `0xb0254633b6761925946fe38b85b821553245a787` |
-| ![PIX (Brazillian money transfer)](https://img.shields.io/badge/PIX-red) | Brazillian residents only | `pedrohusky@live.com` |
 
 
 <!--
